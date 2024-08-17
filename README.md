@@ -29,10 +29,6 @@
 - **Styling:** Modify the `styles.css` file to change the look and feel of the login page.
 - **HTML Structure:** You can adjust the form structure or add more fields by editing the `index.html` file.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contributing
 
 If you have any suggestions or improvements, feel free to fork the repository and submit a pull request. Contributions are welcome!
